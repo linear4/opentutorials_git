@@ -16,3 +16,4 @@ Pull Ãß°¡
 push.egoing
 push.egoing2
 push.clone
+conflict.egoing
