@@ -17,3 +17,4 @@ push.egoing
 push.egoing2
 push.clone
 conflict.egoing
+conflict.egoing_clone2
